@@ -1,1 +1,1 @@
-print()
+print(param 1);
