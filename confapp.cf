@@ -1,1 +1,2 @@
-port 8080
+port = 8080;
+IP-address = 127.0.0.1; 
